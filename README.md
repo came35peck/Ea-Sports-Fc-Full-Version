@@ -241,4 +241,4 @@ This repository serves as the official landing page for EA Sports FC 26. The sof
 **Get the most recent version of EA Sports FC 26 today!**
 
 ---
-**Last updated:** 2026-10-25 17:54:19 UTC
+**Last updated:** 2026-10-25 20:02:13 UTC
